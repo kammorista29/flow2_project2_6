@@ -19,6 +19,15 @@
   "homepage": "https://github.com/WebnautsAcademy/flow2_project2_6#readme",
   "devDependencies": {
     "browser-sync": "^2.27.5",
-    "gulp": "^4.0.2"
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-csso": "^4.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemap": "^1.0.1",
+    "sass": "^1.43.2"
   }
 }
