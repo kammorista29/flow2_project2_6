@@ -1,10 +1,12 @@
 @import './fonts.scss';
-@import './globals.scss';
 @import './variables.scss';
+@import './global.scss';
 
 @import './blocks/header.scss';
+@import './blocks/logo.scss';
 @import './blocks/nav.scss';
+@import './blocks/theme-toggler.scss';
 
-@import './blocks/welcome.scss';
 @import './blocks/about.scss';
-@import './blocks/special.scss';
+@import './blocks/name-container.scss';
+@import './blocks/text-container.scss';

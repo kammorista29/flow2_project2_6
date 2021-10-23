@@ -1,0 +1,16 @@
+.about__wrapper {
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 255px;
+}
+
+.about__wrapper::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 345px;
+    height: 1px;
+    background-color: #C4C4C4;
+}
